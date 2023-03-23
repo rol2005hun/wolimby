@@ -1,5 +1,5 @@
 <template>
-  <main class="index">
+  <main class="typeracer">
     <div class="container">
       <p class="how-to">Are you a dev? Let's see how fast can you write short code snippets! The game will start when you hit the first key! 
       If you want to stop the game, click the pause button! Where you see space, hit space button, nothing else!</p>

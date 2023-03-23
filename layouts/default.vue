@@ -1,5 +1,7 @@
 <template>
+  <Navbar />
   <NuxtPage />
+  <Footer />
 </template>
 
 <script setup lang="ts">
