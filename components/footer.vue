@@ -1,6 +1,6 @@
 <template>
     <footer>
-        <h2>made with ❤️ by rol2005hun - <a href="https://github.com/rol2005hun/wolimby/tree/portfolio">source code</a></h2>
+        <h2>made with ❤️ by rol2005hun - <a href="https://github.com/rol2005hun/wolimby/tree/portfolio" target="_blank">source code</a></h2>
     </footer>
 </template>
 
